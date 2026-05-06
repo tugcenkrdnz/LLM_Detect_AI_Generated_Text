@@ -1,0 +1,8 @@
+streamlit
+pandas
+joblib
+numpy
+neattext
+textblob
+tensorflow
+scikit-learn
